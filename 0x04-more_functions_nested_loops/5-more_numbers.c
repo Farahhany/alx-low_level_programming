@@ -12,7 +12,7 @@ void more_numbers(void)
 
 	for (r = 1; r <= 10; r++)
 	{
-		for (c = 0; c <= 10; c++)
+		for (c = 0; c <= 14; c++)
 		{
 			n = c;
 			if (c > 9)
