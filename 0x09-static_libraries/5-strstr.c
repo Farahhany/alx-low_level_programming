@@ -6,4 +6,4 @@
  * @needle: input 2
  * Return: */
 
-char *_strstr(char *haystack, char *needle)
+char *_strstr(char *haystack, char *needle);
