@@ -15,4 +15,5 @@ struct dog
 	char *name;
 	float age;
 	chat *owner;
-}
+};
+#endif
