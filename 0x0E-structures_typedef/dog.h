@@ -2,7 +2,7 @@
 #define DOG_H
 
 /**
- * struct dog - dog
+ * struct dog - a dog struck
  * @name: char
  * @age: float
  * @owner: char
@@ -16,4 +16,5 @@ struct dog
 	float age;
 	chat *owner;
 };
+
 #endif
